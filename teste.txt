@@ -9,3 +9,5 @@ Conclusão
 Adicionada referência:
 
 SANTO, 2019.
+
+Esta lista é no master branch.
