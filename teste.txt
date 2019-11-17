@@ -11,3 +11,6 @@ Adicionada referência:
 SANTO, 2019.
 
 Esta lista é no master branch.
+SANTOS, 2019.
+SILVA, 2000.
+Martins, 1998.
